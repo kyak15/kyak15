@@ -6,7 +6,7 @@ I am a senior computer science student at Oregon State University, passionate ab
 ## 🚀 What I'm Up To
 
 - 💻 Building Spring Boot applications with PostgreSQL
-- - 📶 Learning about Computer Networking with Sockets
+- 📶 Learning about Computer Networking with Sockets
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 
 

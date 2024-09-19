@@ -5,9 +5,9 @@ I am a senior computer science student at Oregon State University, passionate ab
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
-- 📶 Learning about Computer Networking with Sockets
+- - 📶 Learning about Computer Networking with Sockets
+- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 
 
 ## 🎓 My Background
@@ -16,7 +16,7 @@ I am currently studying CS at Oregon State. Prior to beginning my degree there, 
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/karim-yakoub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-yakoub)
 
 # 💻 Tech Stack:
 Languages: 
@@ -35,5 +35,6 @@ Libraries/Frameworks:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 Developer Tools: 
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

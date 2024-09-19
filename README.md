@@ -10,9 +10,9 @@ I am a senior computer science student at Oregon State University, passionate ab
 - 📶 Learning about Computer Networking with Sockets
 
 
-## 🎓 About Me
+## 🎓 My Background
 
-I am currently studying CS at Oregon State. Prior to beginning my degree there, I received a Bachelors of Science in Biology at Ramapo College of NJ. During my senior year, I learned about computational methods within Biology, and was fascinated about the possibilites CS holds. I began to self teach, until I felt prepared to return to school. Since starting, I have completed coursework in classes like Data Structures and Algorithms, Software Engineering, Introduction to Databases, Web Development, Computer Architecture and Assembly, Parallel Programming, and Operating Systems.
+I am currently studying CS at Oregon State. Prior to beginning my degree there, I received a Bachelors of Science in Biology at Ramapo College of NJ. During my senior year, I learned about computational methods within Biology, and was fascinated about the possibilites CS holds. I began to self teach, until I felt prepared to return to school. Since starting, I have completed coursework in classes like Data Structures and Algorithms, Software Engineering, Introduction to Databases, Web Development, Computer Architecture and Assembly, Parallel Programming, and Operating Systems. 
 
 
 ## 🌐 Connect with me:

@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋 I'm Karim Yakoub</h1>
 
 # 💫 About Me:
-I am a senior computer science student at Oregon State University, passionate about exploring topics of full-stack development, machine learning, and building robust applications.
+I am a professional SWE, with experience in React, TypeScript, Next.JS, PostgreSQL, Docker, and Python.
 
 ## 🚀 What I'm Up To
 
 - 💻 Learning and Building Spring Boot applications.
-- 📶 Learning about Computer Networking with Sockets.
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
+- 📱 Developing Mobile Applications using React-Native
 
 
 ## 🎓 My Background
 
-I am currently studying CS at Oregon State. Prior to beginning my degree there, I received a Bachelors of Science in Biology at Ramapo College of NJ. During my senior year, I learned about computational methods within Biology, and was fascinated about the possibilites CS holds. I began to self teach, until I felt prepared to return to school. Since starting, I have completed coursework in classes like Data Structures and Algorithms, Software Engineering, Introduction to Databases, Web Development, Computer Architecture and Assembly, Parallel Programming, and Operating Systems. 
+I graduated from Oregon State University with a degree in Computer Sciecne Spring 2025. Prior to beginning my degree there, I received a Bachelors of Science in Biology at Ramapo College of NJ. During my senior year, I learned about computational methods within Biology, and was fascinated about the possibilites CS holds. I began to self teach, until I felt prepared to return to school. Since starting, I have completed coursework in classes like Data Structures and Algorithms, Software Engineering, Introduction to Databases, Web Development, Computer Architecture and Assembly, Parallel Programming, and Operating Systems. 
 
 
 ## 🌐 Connect with me:

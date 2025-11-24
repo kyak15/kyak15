@@ -5,8 +5,7 @@ I am a professional SWE, with experience in React, TypeScript, Next.JS, PostgreS
 
 ## 🚀 What I'm Up To
 
-- 💻 Learning and Building Spring Boot applications.
-- 📱 Developing Mobile Applications using React-Native
+- Working on a Soccer Analytics project that involves setting up an ETL pipeline, cron job, and API to serve match stats from players in the EPL.
 
 
 ## 🎓 My Background

@@ -4,7 +4,7 @@
 I am a professional SWE, with experience in React, TypeScript, Next.JS, PostgreSQL, Docker, and Python.
 
 ## 🚀 What I'm Up To
-
+- Creating WordShelf: A mobile and web app that allows users to look up definitions of words found while reading, and save them to learn using a spaced repeition flashcard system.  
 - Working on a Soccer Analytics project that involves setting up an ETL pipeline, cron job, and API to serve match stats from players in the EPL.
 
 
